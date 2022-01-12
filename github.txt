@@ -1,0 +1,9 @@
+B1: tạo project
+B2: Mở terminal
+B3: git init
+B4: git add .
+B5: git commit -m"gì cx đc"
+B6: copy git remote.... dán vào.
+B7: git push (có gợi ý thì dán vào)
+B8: Sang github chọn setting kéo xuống thấy pages-->đổi thành master thế là xong Đợi tầm 5-6p là copy đc link.
+Xong
