@@ -10,5 +10,5 @@ Xong
 
             Update code lên 
 B1: chọn git add.
-B2: git commit -m"tencode"
+B2: git commit -m"tencode1"
 B3: git push
