@@ -7,3 +7,8 @@ B6: copy git remote.... dán vào.
 B7: git push (có gợi ý thì dán vào)
 B8: Sang github chọn setting kéo xuống thấy pages-->đổi thành master thế là xong Đợi tầm 5-6p là copy đc link.
 Xong
+
+            Update code lên 
+B1: chọn git add.
+B2: git commit -m"tencode"
+B3: git push
